@@ -1,7 +1,7 @@
 # ANEOT-pdf
 
-明日方舟同人主题电子杂志《回归线》的PDF仓库。
+PDF repository for the Arknights homoerotic-themed e-zine "Return to the Line".
 
-储存有2022年5月创刊起各期的PDF文件，您可以通过本仓库下载这些杂志进行阅读。
+There are PDF files of all issues from its inception in May 2022, and you can download these magazines for reading through this repository.
 
-我们也会视情况为您部分月刊的提供方便印刷的PDF版本，以便您自行打印阅读或收藏。
+We will also provide you with printer-friendly PDF versions of some of the monthly issues, as appropriate, so that you can print and read them yourself or collect them.
